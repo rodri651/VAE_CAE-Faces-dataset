@@ -11,6 +11,10 @@ Sample outputs             |  Sample Inputs
 :-------------------------:|:-------------------------:
 ![](https://github.com/rodri651/VAE_CAE-Faces-dataset/blob/master/imgs/reconstruction_latent.png)  |  ![](https://github.com/rodri651/VAE_CAE-Faces-dataset/blob/master/imgs/orig.png)
 
+Video of transition through latent space
+
+[![Watch the video](https://github.com/rodri651/VAE_CAE-Faces-dataset/blob/master/imgs/video.png)](https://www.youtube.com/watch?v=bi7pYHPFXa8)
+
 ### b) **Training Code:** 
 To train pass the following arguments as in the example listed below:
 ```
